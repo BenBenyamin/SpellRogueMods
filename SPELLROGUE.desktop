@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SPELLROGUE
+Exec=env WINEPREFIX="/home/banyaming/.wine" WINEDLLOVERRIDES="winhttp=n,b" wine-stable C:\\\\Games\\\\SpellRogue\\\\SpellRogue.exe
+Type=Application
+StartupNotify=true
+Path=/home/banyaming/.wine/dosdevices/c:/Games/SpellRogue/
+Icon=4345_SpellRogue.0
+StartupWMClass=spellrogue.exe
