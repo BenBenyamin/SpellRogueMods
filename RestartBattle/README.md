@@ -1,6 +1,7 @@
 # Restart Battle Mod
 
 Adds a **"Restart Battle"** button to the Esc pause menu during combat.
+<video controls src="https://github.com/user-attachments/assets/92b455a0-edac-48ec-bf3e-04fa0ffb6f7c"></video>
 
 ## Contents
 
